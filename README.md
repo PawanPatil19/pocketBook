@@ -2,10 +2,10 @@
 
 ### Tech-Stack
 <ul>
-<li>Flutter<li>
+<li>Flutter</li>
 <li>Cloud Firestore</li>
 </ul>
-
+<br>
 <p align="center">
 <img src = "https://github.com/PawanPatil19/pocketBook/blob/main/landing_page.jpg?raw=true" height = "600" width = "300">
 <img src = "https://github.com/PawanPatil19/pocketBook/blob/main/login_page.jpg?raw=true" height = "600" width = "300">
